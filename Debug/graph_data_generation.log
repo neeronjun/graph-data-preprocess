@@ -1,0 +1,13 @@
+﻿  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\nrai\source\repos\graph_data_generation\main.cpp(50,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\nrai\source\repos\graph_data_generation\main.cpp(58,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nrai\source\repos\graph_data_generation\main.cpp(115,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nrai\source\repos\graph_data_generation\main.cpp(116,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nrai\source\repos\graph_data_generation\main.cpp(145,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nrai\source\repos\graph_data_generation\main.cpp(159,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nrai\source\repos\graph_data_generation\main.cpp(297,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nrai\source\repos\graph_data_generation\main.cpp(309,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nrai\source\repos\graph_data_generation\main.cpp(313,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nrai\source\repos\graph_data_generation\main.cpp(318,30): warning C4018: '<': signed/unsigned mismatch
+  graph_data_generation.vcxproj -> C:\Users\nrai\source\repos\graph_data_generation\Debug\graph_data_generation.exe
